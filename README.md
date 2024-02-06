@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Andrew</h1>
-<h3 align="center">Third year student at electrical engineering uni. I am passionate about informatics. I have knowledge in the computer science and telecom field. 🦊🍂</h3>
+<h3 align="center">Student at electrical engineering uni. I am passionate about informatics. I have knowledge in the computer science and telecom field. 🦊🍂</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreiaky" alt="andreiaky" /></a> </p>
 
